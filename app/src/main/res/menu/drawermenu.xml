@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/hom" android:title="Home" android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:id="@+id/search" android:title="Search" android:icon="@drawable/ic_search_black_24dp"/>
+    <item android:id="@+id/sellitem" android:title="Add Ads" android:icon="@drawable/ic_add_black_24dp"/>
+    <item android:id="@+id/yourads" android:title="Ads History/Delete" android:icon="@drawable/ic_access_time_black_24dp"/>
+    <item android:id="@+id/logout" android:title="Log Out" android:icon="@drawable/ic_arrow_back_black_24dp"/>
+
+
+</menu>
